@@ -4,6 +4,7 @@
     <list default="true" id="1ce2f8a0-1f97-4674-9db9-300da16bda2d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,26 +72,26 @@
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state x="2011" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614792702377" />
-    <state width="1637" height="412" key="GridCell.Tab.0.bottom" timestamp="1614862463969">
+    <state width="1637" height="412" key="GridCell.Tab.0.bottom" timestamp="1614863455676">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1614533782591" />
-    <state width="1637" height="412" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614862463969" />
-    <state width="1637" height="412" key="GridCell.Tab.0.center" timestamp="1614862463969">
+    <state width="1637" height="412" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614863455676" />
+    <state width="1637" height="412" key="GridCell.Tab.0.center" timestamp="1614863455676">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1614533782591" />
-    <state width="1637" height="412" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614862463969" />
-    <state width="1637" height="412" key="GridCell.Tab.0.left" timestamp="1614862463968">
+    <state width="1637" height="412" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614863455676" />
+    <state width="1637" height="412" key="GridCell.Tab.0.left" timestamp="1614863455676">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1614533782590" />
-    <state width="1637" height="412" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614862463968" />
-    <state width="1637" height="412" key="GridCell.Tab.0.right" timestamp="1614862463969">
+    <state width="1637" height="412" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614863455676" />
+    <state width="1637" height="412" key="GridCell.Tab.0.right" timestamp="1614863455676">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1614533782591" />
-    <state width="1637" height="412" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614862463969" />
+    <state width="1637" height="412" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1614863455676" />
     <state x="1913" y="238" width="585" height="534" key="find.popup" timestamp="1614525528375">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
